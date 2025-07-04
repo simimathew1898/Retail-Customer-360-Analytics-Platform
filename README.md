@@ -71,7 +71,7 @@ Retail-Customer-360-Analytics-Platform/
 
 The following diagram represents the AWS-native data architecture for the Retail Customer 360 Analytics Platform:
 
-![Architecture](architecture/architecture_diagram.png)
+![Architecture](architecture/architecture_diagram.jpg)
 
 
 ---
