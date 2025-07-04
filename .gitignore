@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Ignore large/raw data
+data/orders/orders.csv
+data/support/support.csv
+data/marketing/marketing.csv
+
+# Ignore temp files
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
